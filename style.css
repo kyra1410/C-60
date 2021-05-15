@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#app{
+    width: 100%;
+    background-color: burlywood;
+}
+#games{
+    width: 100%;
+    background-color: aquamarine;
+}
+img{
+    transition:transform 0.2s;
+}
+img:hover{
+    transform:scale(0.9);
+}
+#chatbot{
+    width: 100%;
+    background-color: blueviolet;
+}
